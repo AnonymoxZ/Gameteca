@@ -12,7 +12,7 @@ _...for me, and friends Discord 2023._
 
 ## Viewing project
 
-Open <a href="gameteca.vercel.app">Gameteca</a> in the browser for viewing my project gallery.
+Open <a href="www.https://gameteca.vercel.app">Gameteca</a> in the browser for viewing my project gallery.
 
 ## Screenshots
 - First version
